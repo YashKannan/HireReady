@@ -1,0 +1,18 @@
+# Core dependencies
+google-generativeai==0.8.3
+streamlit==1.39.0
+pandas==2.2.2
+plotly==5.24.0
+
+# PDF and DOCX handling
+PyPDF2==3.0.1
+python-docx==1.1.2
+reportlab==4.2.2
+
+# Utility and JSON parsing
+requests==2.32.3
+jsonschema==4.23.0
+
+# Optional (but helpful)
+tqdm==4.66.5
+watchdog==4.0.1
